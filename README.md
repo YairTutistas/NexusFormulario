@@ -11,5 +11,5 @@ Copiamos el .env.example y lo dejamos .env
 php artisan key:generate
 
 
-# NOTA: debe estar instalado Composer de manera global.
-# Ya terminado debes ejecutar primero php artisan serve
+### NOTA: debe estar instalado Composer de manera global.
+### Ya terminado debes ejecutar primero: npm run serve y luego php artisan serve
